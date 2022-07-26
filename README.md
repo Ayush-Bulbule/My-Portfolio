@@ -36,3 +36,6 @@
 <a href="https://www.linkedin.com/in/Ayush Bulbule" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 <br clear="left"/>
+
+
+<b align="center">If you like the website please leve a 🌟 for this repo.</b>
