@@ -16,6 +16,12 @@
 	Status: 🚀 Finished
 </h4>
 
+
+<h4 align="center">
+	Preview
+</h4>
+<img src="/0ac5f7a538d88d1cf7a6ed8aaa17c648.jpg"/>
+
 <p align="center">
 	<a href="#tech-stack">Tech Stack</a> •
 	<a href="#contact">Contact</a> 
