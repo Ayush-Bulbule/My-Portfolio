@@ -22,11 +22,12 @@
 </h4>
 <img src="/0ac5f7a538d88d1cf7a6ed8aaa17c648.jpg"/>
 <p align="center">
-	<a href="https://ayush-bulbule.github.io/Portfolio/">https://ayush-bulbule.github.io/Portfolio/</a> •
+	Live at: 
+	<a href="https://ayush-bulbule.github.io/Portfolio/">https://ayush-bulbule.github.io/Portfolio/</a> 
 </p>
 
 <p align="center">
-	<a href="#tech-stack">Tech Stack</a> •
+	• <a href="#tech-stack">Tech Stack</a> •
 	<a href="#contact">Contact</a> 
 </p>
 
